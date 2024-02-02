@@ -1,4 +1,4 @@
-# [:paperclip:](https://drive.google.com/file/d/1hmXImAke6uDrzBUVY8I9KIfQgY41oOO6/view?usp=drive_link) Dev ruby <> Lasnor <a href="https://linkedin.com/in/leandrolasnor"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/></a>
+# [:paperclip:](https://drive.google.com/file/d/1hmXImAke6uDrzBUVY8I9KIfQgY41oOO6/view?usp=drive_link) Dev ruby <> Software Engineer <a href="https://linkedin.com/in/leandrolasnor"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/></a>
 
 ######  Profissional de tecnologia, com +5 anos de experiência na área de desenvolvimento de software. Capaz de projetar, implementar e manter sistemas web, utilizando as convenções e melhores práticas do Ruby on Rails. Familiarizado com os princípios de desenvolvimento ágil e DevOps.
 
